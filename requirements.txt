@@ -1,0 +1,9 @@
+plexapi
+pytest
+pytest-pycodestyle
+numpy
+PyQt5
+pylast
+pygame
+python-dotenv
+requests
